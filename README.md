@@ -1,6 +1,5 @@
 # LcVRP Genetic Algorithm
 
-Competition project for the "Techniques of Effective Programming" course. A C++ Genetic Algorithm solver for LcVRP, built by an Applied Computer Science student at WUST<br>
 ---
 
 [![C++](https://img.shields.io/badge/C++-17%2F20-blue.svg)](https://isocpp.org/)
